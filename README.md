@@ -14,7 +14,7 @@ University of Benin
 • Economic Analysis of Poultry Egg Marketing in Edo North Agro-ecological zone, Nigeria
 ## WORK EXPERIENCE
 ### JP Morgan & Chase
-Strategic Analytics and Risk Management
+#### Strategic Analytics and Risk Management
 • Leverage advanced analytics tools (Python, SAS, SQL) to develop strategies that reduced fraud loss by 34%
 • Simulate strategies before deployment to forecast impact on business process
 • Monitor, detect and report emerging fraud trends achieving cost savings > $10M per month for the business
