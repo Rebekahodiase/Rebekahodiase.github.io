@@ -1,21 +1,19 @@
 
-#219 N King St, Wilmington, DE 19801 | rebekaholukayode77@gmail.com | +1765-810-2359 In: www.linkedin.com/in/ifeloluwa-rebekah-olukayode
-###PROFESSIONAL SUMMARY
+### PROFESSIONAL SUMMARY
 Rebekah is an applied economics scholar with a strong background in Agriculture, Economics and Data Science. Proficient in conducting impactful research and employing advanced data analytics tools and has garnered 5+ years of work and research experience across diverse fields – Agribusiness, Marketing and Data Science.
-    ###EDUCATION
-Purdue University                                Aug 2022 – Aug 2024
-• Master of Science, Agricultural Economics (3.94 CGPA) World Quant University
-• Applied Data Science Lab University of Benin,
-• Bachelor of Agricultural Economics and Resource Management (3.76 CGPA- First Class Honors Award)
-###PRESEARCH EXPERIENCE
-
-Feb 2022 – Mar 2023 Nov 2014 – Dec 2019
-  • Determinants of Sales Strategy based on salespeople segmentation: A multinomial logit analysis (master’s Thesis)
+### EDUCATION
+Purdue University                                
+• Master of Science, Agricultural Economics (3.94 CGPA) World Quant University                      Aug 2022 – Aug 2024
+• Applied Data Science Lab                                                                          Feb 2022 – Mar 2023
+University of Benin                                                                                                 
+• Bachelor of Agricultural Economics and Resource Management (3.76 CGPA- First Class Honors Award)  Nov 2014 – Dec 2019
+### RESEARCH EXPERIENCE
+• Determinants of Sales Strategy based on salespeople segmentation: A multinomial logit analysis (master’s Thesis)
 • Educational Priorities for Tomorrow's Agribusiness Leaders: A Reassessment for the 21st Century
 • Economic Analysis of the Impact of Policies on Agricultural Importation in Nigeria
 • Economic Analysis of Poultry Egg Marketing in Edo North Agro-ecological zone, Nigeria
-###PWORK EXPERIENCE
-JP Morgan & Chase
+### WORK EXPERIENCE
+## JP Morgan & Chase
 Strategic Analytics and Risk Management
 • Leverage advanced analytics tools (Python, SAS, SQL) to develop strategies that reduced fraud loss by 34%
 • Simulate strategies before deployment to forecast impact on business process
