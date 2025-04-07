@@ -1,5 +1,5 @@
 
-### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 Rebekah is an applied economics scholar with a strong background in Agriculture, Economics and Data Science. Proficient in conducting impactful research and employing advanced data analytics tools and has garnered 5+ years of work and research experience across diverse fields – Agribusiness, Marketing and Data Science.
 ## EDUCATION
 Purdue University                                
