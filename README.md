@@ -19,12 +19,13 @@ University of Benin
 • Simulate strategies before deployment to forecast impact on business process
 • Monitor, detect and report emerging fraud trends achieving cost savings > $10M per month for the business
 • Build productive relationships across functional teams to achieve shared objectives
-Purdue University, West Lafayette, Indiana
-Graduate Research Assistant
+### Purdue University, West Lafayette, Indiana
+#### Graduate Research Assistant
 • Co-authoring the upcoming edition of "Pro-selling," a renowned publication recognized for its groundbreaking insights into modern sales and marketing practices
 • Conducting extensive research on consumer behavior, seller effectiveness, and market segmentation, resulting in increase in industry- specific knowledge and a more precise understanding -of buyer-seller dynamics
 • Leveraging advanced data analytics tools, including Stata, Excel and Python, to perform in-depth data analysis, leading to the discovery of data-driven strategies that could improve sales and marketing effectiveness
-Nationwide May 2023- Aug 2023 Data Scientist Intern
+### Nationwide                                                                                         May 2023- Aug 2023 
+Data Scientist Intern
 • Developed a Survival analysis model, that achieved an 85% accuracy rate in predicting customer survival probability and retention • Utilized a diverse tech stack, including Python, pandas, scikit-learn, and lifelines, to create a large-scale data model, achieving a 17%
 improvement in data processing and modeling efficiency
 • Executed advanced feature engineering techniques, enhancing the model's performance by 20%, thereby delivering more precise and
